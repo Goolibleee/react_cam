@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react_cam/static/css/main.2936e648.chunk.css",
-    "main.js": "/react_cam/static/js/main.abc8a0fd.chunk.js",
-    "main.js.map": "/react_cam/static/js/main.abc8a0fd.chunk.js.map",
+    "main.js": "/react_cam/static/js/main.e3148dbb.chunk.js",
+    "main.js.map": "/react_cam/static/js/main.e3148dbb.chunk.js.map",
     "runtime-main.js": "/react_cam/static/js/runtime-main.93d16eb3.js",
     "runtime-main.js.map": "/react_cam/static/js/runtime-main.93d16eb3.js.map",
     "static/js/2.4972c23f.chunk.js": "/react_cam/static/js/2.4972c23f.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.93d16eb3.js",
     "static/js/2.4972c23f.chunk.js",
     "static/css/main.2936e648.chunk.css",
-    "static/js/main.abc8a0fd.chunk.js"
+    "static/js/main.e3148dbb.chunk.js"
   ]
 }
