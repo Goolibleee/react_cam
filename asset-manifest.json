@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/react_cam/static/css/main.2936e648.chunk.css",
-    "main.js": "/react_cam/static/js/main.e3148dbb.chunk.js",
-    "main.js.map": "/react_cam/static/js/main.e3148dbb.chunk.js.map",
-    "runtime-main.js": "/react_cam/static/js/runtime-main.93d16eb3.js",
-    "runtime-main.js.map": "/react_cam/static/js/runtime-main.93d16eb3.js.map",
-    "static/js/2.4972c23f.chunk.js": "/react_cam/static/js/2.4972c23f.chunk.js",
-    "static/js/2.4972c23f.chunk.js.map": "/react_cam/static/js/2.4972c23f.chunk.js.map",
-    "static/js/3.4151370a.chunk.js": "/react_cam/static/js/3.4151370a.chunk.js",
-    "static/js/3.4151370a.chunk.js.map": "/react_cam/static/js/3.4151370a.chunk.js.map",
+    "main.js": "/react_cam/static/js/main.af8fe084.chunk.js",
+    "main.js.map": "/react_cam/static/js/main.af8fe084.chunk.js.map",
+    "runtime-main.js": "/react_cam/static/js/runtime-main.0bd0692b.js",
+    "runtime-main.js.map": "/react_cam/static/js/runtime-main.0bd0692b.js.map",
+    "static/js/2.04a10fb7.chunk.js": "/react_cam/static/js/2.04a10fb7.chunk.js",
+    "static/js/2.04a10fb7.chunk.js.map": "/react_cam/static/js/2.04a10fb7.chunk.js.map",
+    "static/js/3.b814102e.chunk.js": "/react_cam/static/js/3.b814102e.chunk.js",
+    "static/js/3.b814102e.chunk.js.map": "/react_cam/static/js/3.b814102e.chunk.js.map",
     "index.html": "/react_cam/index.html",
     "static/css/main.2936e648.chunk.css.map": "/react_cam/static/css/main.2936e648.chunk.css.map",
-    "static/js/2.4972c23f.chunk.js.LICENSE.txt": "/react_cam/static/js/2.4972c23f.chunk.js.LICENSE.txt"
+    "static/js/2.04a10fb7.chunk.js.LICENSE.txt": "/react_cam/static/js/2.04a10fb7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.93d16eb3.js",
-    "static/js/2.4972c23f.chunk.js",
+    "static/js/runtime-main.0bd0692b.js",
+    "static/js/2.04a10fb7.chunk.js",
     "static/css/main.2936e648.chunk.css",
-    "static/js/main.e3148dbb.chunk.js"
+    "static/js/main.af8fe084.chunk.js"
   ]
 }
